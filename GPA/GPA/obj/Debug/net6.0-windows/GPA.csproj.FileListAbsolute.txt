@@ -1,0 +1,17 @@
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\bin\Debug\net6.0-windows\GPA.exe
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\bin\Debug\net6.0-windows\GPA.deps.json
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\bin\Debug\net6.0-windows\GPA.runtimeconfig.json
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\bin\Debug\net6.0-windows\GPA.dll
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\bin\Debug\net6.0-windows\ref\GPA.dll
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\bin\Debug\net6.0-windows\GPA.pdb
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\obj\Debug\net6.0-windows\GPA.csproj.AssemblyReference.cache
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\obj\Debug\net6.0-windows\GPA.Form1.resources
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\obj\Debug\net6.0-windows\GPA.csproj.GenerateResource.cache
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\obj\Debug\net6.0-windows\GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\obj\Debug\net6.0-windows\GPA.AssemblyInfoInputs.cache
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\obj\Debug\net6.0-windows\GPA.AssemblyInfo.cs
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\obj\Debug\net6.0-windows\GPA.csproj.CoreCompileInputs.cache
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\obj\Debug\net6.0-windows\GPA.dll
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\obj\Debug\net6.0-windows\ref\GPA.dll
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\obj\Debug\net6.0-windows\GPA.pdb
+C:\Users\MAKE\Documents\GitHub\GPA02\GPA\GPA\obj\Debug\net6.0-windows\GPA.genruntimeconfig.cache
