@@ -2,6 +2,8 @@ namespace GPA
 {
     public partial class Form1 : Form
     {
+        double sum = 0;
+        int n = 0;
         public Form1()
         {
             InitializeComponent();
@@ -30,10 +32,20 @@ namespace GPA
         private void button1_Click(object sender, EventArgs e)
         {
             string strInput = GIN.Text;
-            double sum = 0.0;
             double dInput = double.Parse(strInput);
             sum = sum + dInput;
-            Box2.Text = sum.ToString();
+            n = n + 1;
+            double result = sum / n;
+            Box2.Text = result.ToString();
+            GIN.Text = "";
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Box2.Text = "";
+            GIN.Text = "";
+            sum = 0;
+            n =0;
         }
     }
 }
